@@ -1,2 +1,1 @@
-# request_spider
-Repository for web-spiders
+# Repository for web-spiders
